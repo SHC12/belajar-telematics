@@ -1,1 +1,4 @@
 Ini file_1.txt
+
+
+init file_1.txt versi 2
