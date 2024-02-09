@@ -5,3 +5,6 @@ ini file login employee login
 
 
 ini line baru
+
+
+ini edit manual
